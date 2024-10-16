@@ -1,0 +1,16 @@
+{
+  "name": "test_devops_heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrii Lebedenko",
+  "license": "ISC",
+  "description": "test page for deploy on Heroku",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
